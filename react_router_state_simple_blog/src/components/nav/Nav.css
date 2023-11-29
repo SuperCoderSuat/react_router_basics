@@ -1,0 +1,11 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+    padding-top: 30px;
+}
+
+nav div {
+    display: flex;
+    gap: 30px;
+}

@@ -1,0 +1,16 @@
+.header_blog_container {
+    padding-inline: 100px;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-items: center;
+    padding-top: 100px;
+}
+
+.grid div img {
+    width: 300px;
+    height: 200px;
+    border-radius: 25px;
+}
